@@ -1,0 +1,1 @@
+# Thinkpad-X1-Extreme-Gen-3-Hackintosh-OpenCore-Sonoma
