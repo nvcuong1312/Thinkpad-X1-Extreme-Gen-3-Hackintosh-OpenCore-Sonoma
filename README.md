@@ -17,6 +17,3 @@
 
 # Known problems
 * The screen is black when booting, you have to close and open the lid screen again for the login screen to appear.
-* Cannot connect to bluetooth mouse (2.4Ghz USB is Ok)
-* Battery status not working
-  
