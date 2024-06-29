@@ -14,6 +14,3 @@
 * Intel Wifi and Bluetooth
 * Camera/Mic
 * Sleep
-
-# Known problems
-* The screen is black when booting, you have to close and open the lid screen again for the login screen to appear.
