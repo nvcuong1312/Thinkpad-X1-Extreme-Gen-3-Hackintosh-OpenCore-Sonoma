@@ -14,3 +14,8 @@
 * Intel Wifi and Bluetooth
 * Camera/Mic
 * Sleep
+
+
+# 
+If you have iGPU problems, try this great tool.
+https://github.com/benbaker76/Hackintool
